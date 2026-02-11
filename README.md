@@ -41,6 +41,11 @@ Enseño y construyo software con foco en claridad, buenas prácticas y proyectos
 - **proyectos** (Spring Boot + DB)
 - **RabbitMQ / AMQP**
 
+## Cronograma de asignaturas:
+<p>
+    <a href="https://leandro-educ.github.io/LDS-Cronograma/">Cronograma Laboratorio de Software...</a>
+</p>
+
 ---
 
 ## 📬 Contacto
