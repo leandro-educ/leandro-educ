@@ -2,8 +2,9 @@
 
 Docente universitario y de nivel medio • Analista de Sistemas • Lic. en Tecnología Educativa  
 Enseño y construyo software con foco en claridad, buenas prácticas y proyectos reales.
-
-<img src="assets/foto.png" alt="Banner" width="200" />
+<p align="center">
+    <img src="assets/foto.png" alt="Banner" width="200" />
+</p>
 
 ---
 
