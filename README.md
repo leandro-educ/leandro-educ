@@ -49,5 +49,3 @@ Enseño y construyo software con foco en claridad, buenas prácticas y proyectos
 
 ---
 
-### Nota corta
-Si algo se entiende “a la primera”, el software (y la docencia) hacen su trabajo. 🙂
