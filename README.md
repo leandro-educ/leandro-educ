@@ -1,4 +1,4 @@
-# Leandro (Lean) — Docente y Desarrollador de Software
+# Leandro Alvarez — Docente y Desarrollador de Software
 
 Docente universitario y de nivel medio • Analista de Sistemas • Lic. en Tecnología Educativa  
 Enseño y construyo software con foco en claridad, buenas prácticas y proyectos reales.
@@ -6,17 +6,17 @@ Enseño y construyo software con foco en claridad, buenas prácticas y proyectos
 ---
 
 ## 🔎 Perfil profesional
-- 📚 Docencia: Laboratorio de Software / Paradigmas de Programación / NTICx  
+- 📚 Docencia: Laboratorio de Software / Paradigmas de Programación / NTICx / Cursos de Tecnologías
 - 🧠 Enfoque: arquitectura limpia, aprendizaje progresivo, prácticas “end-to-end”
 - 🧪 Me gusta: enseñar con ejemplos, refactorizar y dejar el código “explicable”
 
 ---
 
 ## 🧰 Stack y herramientas
-- **Backend:** Java • Spring Boot • Maven • REST API • Spring AMQP (RabbitMQ)
+- **Backend:** Java • Spring Boot • Maven • REST API • Spring AMQP (RabbitMQ) • PHP • Node • Python
 - **Mensajería:** RabbitMQ (eventos, colas, consumidores)
-- **Bases de datos:** SQLite • MySQL/MariaDB • (opcional) SQL Server
-- **Dev:** VS Code • Docker • Git/GitHub
+- **Bases de datos:** SQLite • MySQL/MariaDB • SQL Server
+- **Dev:** VS Code • Docker • Git/GitHub • Eclipse
 
 ---
 
@@ -34,25 +34,15 @@ Enseño y construyo software con foco en claridad, buenas prácticas y proyectos
 ---
 
 ## 🚀 Repositorios recomendados (para fijar / “Pinned”)
-> Sugerencia: fijá 6 repos que representen tu mejor trabajo.
-- 2 repos de **docencia** (guías + ejercicios)
-- 2 repos de **proyectos** (Spring Boot + DB)
-- 1 repo de **RabbitMQ / AMQP**
-- 1 repo **portfolio/integrador** (lo más completo)
-
----
-
-## 🧭 Cómo organizo el contenido (estilo profesional)
-- `docencia/2026/labsoft/` → clases, guías, enunciados
-- `proyectos/` → proyectos demostración y apps
-- `templates/` → plantillas de TP/Parcial/Repo base (muy útil para estandarizar)
+- **docencia** (guías + ejercicios)
+- **proyectos** (Spring Boot + DB)
+- **RabbitMQ / AMQP**
 
 ---
 
 ## 📬 Contacto
-- LinkedIn: TU_LINK_LINKEDIN
-- Email: TU_EMAIL
-- Portfolio / Web: TU_LINK
+- Email: alvarez.leandro.a@gmail.com
+- Portfolio / Web: 
 
 ---
 
