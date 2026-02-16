@@ -40,7 +40,7 @@ Enseño y construyo software con foco en claridad, buenas prácticas y proyectos
 - **docencia** (guías + ejercicios)
 - **proyectos** (Spring Boot + DB)
 - **RabbitMQ / AMQP**
-
+- **Emojis para archivo Readme <a href="https://gist.github.com/rxaviers/7360908">Ir...</a>
 ## Cronograma de asignaturas:
 <p>
     <a href="https://leandro-educ.github.io/LDS-Cronograma/">Cronograma Laboratorio de Software...</a>
